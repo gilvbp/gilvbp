@@ -30,7 +30,7 @@
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>](https://atom.io/)
 [<code><img height="20" src="https://code.visualstudio.com/assets/favicon.ico"></code>](https://code.visualstudio.com/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>](https://aws.amazon.com/)
-[<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>](https://www.typescriptlang.org/)
+[<code><img height="20" src="https://uploads-ssl.webflow.com/5fa58eb04302c6e6eb23144c/5fe100c0445605e87d65282e_40583b9485486616cc310cf5c5282b85.png"></code>](https://cloud.google.com)
 [<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png"></code>](https://archlinux.org/)
 
 📈 my github stats
