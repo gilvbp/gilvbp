@@ -37,3 +37,5 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gilvbp&show_icons=true&theme=gotham" alt="gilvbp" />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=gilvbp)](https://github.com/gilvbp/github-profile-trophy)
+
