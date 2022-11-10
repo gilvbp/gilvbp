@@ -41,6 +41,6 @@
 
 <p align="center">
     
-[![trophy](https://github-profile-trophy.vercel.app/?username=gilvbp)](https://github.com/gilvbp/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gilvbp&theme=onedark)](https://github.com/gilvbp/github-profile-trophy)
 
 </p>
