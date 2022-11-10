@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Gil Vicnte](https://www.linkedin.com/in/gil-vicente-b-333a443a/.
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Gil Vicente](https://www.linkedin.com/in/gil-vicente-b-333a443a/.
 
 
 - 💬 Ask me about [Java](https://www.java.com/) and [Scala](https://www.scala-lang.org/) and [Python](https://www.python.org/)!
