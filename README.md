@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Gil Vicente](https://www.linkedin.com/in/gil-vicente-b-333a443a/.
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Gil Vicente](https://www.linkedin.com/in/gil-vicente-b-333a443a/).
 
 
 - 💬 Ask me about [Java](https://www.java.com/), [Scala](https://www.scala-lang.org/), [Python](https://www.python.org/) and [R](https://www.r-project.org/)!
@@ -33,6 +33,7 @@
 [<code><img height="20" src="https://uploads-ssl.webflow.com/5fa58eb04302c6e6eb23144c/5fe100c0445605e87d65282e_40583b9485486616cc310cf5c5282b85.png"></code>](https://cloud.google.com)
 [<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png"></code>](https://archlinux.org/)
 [<code><img height="20" src="https://www.r-project.org/Rlogo.png"></code>](https://www.r-project.org/)
+[<code><img height="20" src="https://lattinegroup.com/wp-content/uploads/2020/04/CAPA_FINAL.jpg"></code>](https://azure.microsoft.com/)
 
 📈 my github stats
 
