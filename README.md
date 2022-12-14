@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Gil Vicente](https://www.linkedin.com/in/gil-vicente-b-333a443a/.
 
 
-- 💬 Ask me about [Java](https://www.java.com/) and [Scala](https://www.scala-lang.org/) and [Python](https://www.python.org/)!
+- 💬 Ask me about [Java](https://www.java.com/), [Scala](https://www.scala-lang.org/), [Python](https://www.python.org/) and [R] (https://www.r-project.org/)!
 - 📫 How to reach me: `gilvbp@gmail.com`
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gilvbp.gilvbp)
@@ -32,6 +32,7 @@
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>](https://aws.amazon.com/)
 [<code><img height="20" src="https://uploads-ssl.webflow.com/5fa58eb04302c6e6eb23144c/5fe100c0445605e87d65282e_40583b9485486616cc310cf5c5282b85.png"></code>](https://cloud.google.com)
 [<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png"></code>](https://archlinux.org/)
+[<code><img height="20" src="https://www.r-project.org/Rlogo.png"></code>](https://www.r-project.org/)
 
 📈 my github stats
 
