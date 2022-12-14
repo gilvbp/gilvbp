@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Gil Vicente](https://www.linkedin.com/in/gil-vicente-b-333a443a/.
 
 
-- 💬 Ask me about [Java](https://www.java.com/), [Scala](https://www.scala-lang.org/), [Python](https://www.python.org/) and [R] (https://www.r-project.org/)!
+- 💬 Ask me about [Java](https://www.java.com/), [Scala](https://www.scala-lang.org/), [Python](https://www.python.org/) and [R](https://www.r-project.org/)!
 - 📫 How to reach me: `gilvbp@gmail.com`
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gilvbp.gilvbp)
