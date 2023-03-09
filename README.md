@@ -46,3 +46,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=gilvbp&theme=onedark)](https://github.com/gilvbp/github-profile-trophy)
 
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anti-duhring&layout=compact&theme=tokyonight&count_private=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
