@@ -12,8 +12,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gilvbp.gilvbp)
 
-**languages and tools:**  
-
 ### 🛠️ Open Source Contributions
 
 #### 🎮 [DXVK](https://github.com/doitsujin/dxvk)
@@ -26,6 +24,7 @@
 - Contributor to the open-source Corsair peripheral driver and configuration tool for Linux.
 - Work includes device support fixes, UI improvements, and HID protocol patches.
 
+**languages and tools:**  
 
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>](https://www.java.com/)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>](https://www.python.org/)
