@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Gil Vicente</h1>
 
 <p align="center">
-  🧑‍💻 Linux developer • Open source contributor • Vulkan & Wine enthusiast
+  🧑‍💻 Linux developer • Open source contributor • Vulkan & Wine enthusiast • AI / Big Data Advocate 
 </p>
 
 - 💬 Ask me about [Java](https://www.java.com/), [Scala](https://www.scala-lang.org/), [Python](https://www.python.org/) and [R](https://www.r-project.org/),
