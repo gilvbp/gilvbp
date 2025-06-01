@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Gil Vicente]</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Gil Vicente</h1>
 
 <p align="center">
   🧑‍💻 Linux developer • Open source contributor • Vulkan & Wine enthusiast
