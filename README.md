@@ -55,18 +55,18 @@
 
 📈 my github stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gilvbp&layout=compact&theme=gotham)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gilvbp&layout=compact&theme=gotham)<tab>
 <img src="https://github-readme-stats.vercel.app/api?username=gilvbp&show_icons=true&theme=gotham" alt="gilvbp" />
 
 <!-- Número de repositórios públicos -->
-![Repositórios](https://img.shields.io/github/repos/SEU_USUARIO?label=repositórios&style=flat-square)
+![Repositórios](https://img.shields.io/github/repos/gilvbp?label=repositórios&style=flat-square)
 
 <!-- Número de seguidores -->
-![Seguidores](https://img.shields.io/github/followers/SEU_USUARIO?label=seguidores&style=flat-square)
+![Seguidores](https://img.shields.io/github/followers/gilvbp?label=seguidores&style=flat-square)
 
 <!-- Commits nos últimos 30 dias -->
-![Commits (último mês)](https://img.shields.io/github/commit-activity/m/SEU_USUARIO?label=commits%20(último%20mês)&style=flat-square)
+![Commits (último mês)](https://img.shields.io/github/commit-activity/m/gilvbp?label=commits%20(último%20mês)&style=flat-square)
 
 <!-- Membro desde (criado a partir de um repositório espelho) -->
-![Membro desde](https://img.shields.io/github/created/SEU_USUARIO/SEU_USUARIO?label=membro%20desde&style=flat-square)
+![Membro desde](https://img.shields.io/github/created/gilvbp/gilvbp?label=membro%20desde&style=flat-square)
 
