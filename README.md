@@ -11,7 +11,7 @@
 - LinkedIn (https://www.linkedin.com/in/gil-vicente-b-333a443a/)
 - Mastodon (https://mastodon.social/@gilvbp)
 
-![](https://visitor-badge.glitch.me/badge?page_id=gilvbp.gilvbp)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gilvbp.gilvbp)
 
 ### 🛠️ Open Source Contributions
 
