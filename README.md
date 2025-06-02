@@ -56,7 +56,5 @@
 📈 my github stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gilvbp&layout=compact&theme=gotham)
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gilvbp&show_icons=true&theme=gotham" alt="gilvbp" />
+<img src="https://github-readme-stats.vercel.app/api?username=gilvbp&show_icons=true&theme=gotham" alt="gilvbp" />
   
