@@ -4,8 +4,7 @@
   🧑‍💻 Linux developer • Open source contributor • Vulkan & Wine enthusiast • AI / Big Data Advocate 
 </p>
 
-⏳ GitHub member since September 3, 2012
-
+- ⏳ GitHub member since September 3, 2012
 - 💬 Ask me about [Java](https://www.java.com/), [Scala](https://www.scala-lang.org/), [Python](https://www.python.org/) and [R](https://www.r-project.org/),
 [Kotlin](https://kotlinlang.org/), [C/C++](https://www.geeksforgeeks.org/c-plus-plus/)!
 - 📫 How to reach me: `gilvbp@gmail.com`
