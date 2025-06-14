@@ -15,7 +15,7 @@
 
 ### Open Source Contributions
 
-#### 🎮 [DXVK](https://github.com/doitsujin/dxvk)
+#### [DXVK](https://github.com/doitsujin/dxvk)
 -  [Add device filter by UUID](https://github.com/doitsujin/dxvk/commit/1e64bb8b8e45108f6d5599de8178ff01f5f7810a) – *Merged on May 30, 2025*
 - **Description:** Introduced support for filtering Vulkan devices by UUID, improving multi-GPU control and compatibility with tools like `DXVK_FILTER_DEVICE_UUID`. Useful for setups with discrete GPUs, passthrough (VFIO), or fine-tuned Vulkan environment control.
 - 🔧 Technologies: C++, Vulkan, Linux, Wine, Proton
