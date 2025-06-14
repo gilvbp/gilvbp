@@ -1,13 +1,13 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Gil Vicente</h1>
 
 <p align="center">
-  🧑‍💻 Linux developer • Open source contributor • Vulkan & Wine enthusiast • AI / Big Data Advocate 
+   Linux developer • Open source contributor • Vulkan & Wine enthusiast • AI / Big Data Advocate 
 </p>
 
-- ⏳ GitHub member since September 3, 2012
-- 💬 Ask me about [Java](https://www.java.com/), [Scala](https://www.scala-lang.org/), [Python](https://www.python.org/) and [R](https://www.r-project.org/),
+-  GitHub member since September 3, 2012
+-  Ask me about [Java](https://www.java.com/), [Scala](https://www.scala-lang.org/), [Python](https://www.python.org/) and [R](https://www.r-project.org/),
 [Kotlin](https://kotlinlang.org/), [C/C++](https://www.geeksforgeeks.org/c-plus-plus/)!
-- 📫 How to reach me: `gilvbp@gmail.com`
+-  How to reach me: `gilvbp@gmail.com`
 - LinkedIn (https://www.linkedin.com/in/gil-vicente-b-333a443a/)
 - Mastodon (https://mastodon.social/@gilvbp)
 
@@ -16,12 +16,12 @@
 ### 🛠️ Open Source Contributions
 
 #### 🎮 [DXVK](https://github.com/doitsujin/dxvk)
-- ✅ [Add device filter by UUID](https://github.com/doitsujin/dxvk/commit/1e64bb8b8e45108f6d5599de8178ff01f5f7810a) – *Merged on May 30, 2025*
+-  [Add device filter by UUID](https://github.com/doitsujin/dxvk/commit/1e64bb8b8e45108f6d5599de8178ff01f5f7810a) – *Merged on May 30, 2025*
 - **Description:** Introduced support for filtering Vulkan devices by UUID, improving multi-GPU control and compatibility with tools like `DXVK_FILTER_DEVICE_UUID`. Useful for setups with discrete GPUs, passthrough (VFIO), or fine-tuned Vulkan environment control.
 - 🔧 Technologies: C++, Vulkan, Linux, Wine, Proton
 
 
-#### 🖥️ [ckb-next](https://github.com/ckb-next/ckb-next)
+####  [ckb-next](https://github.com/ckb-next/ckb-next)
 - Contributor to the open-source Corsair peripheral driver and configuration tool for Linux.
 - Work includes device support fixes, UI improvements, and HID protocol patches.
 
