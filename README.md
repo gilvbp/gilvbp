@@ -13,7 +13,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gilvbp.gilvbp)
 
-### 🛠️ Open Source Contributions
+### Open Source Contributions
 
 #### 🎮 [DXVK](https://github.com/doitsujin/dxvk)
 -  [Add device filter by UUID](https://github.com/doitsujin/dxvk/commit/1e64bb8b8e45108f6d5599de8178ff01f5f7810a) – *Merged on May 30, 2025*
