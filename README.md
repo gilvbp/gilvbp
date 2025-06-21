@@ -57,9 +57,8 @@
 
 📈 my github stats
 <p align="center">
-   ![](https://github-readme-stats.vercel.app/api?username=gilvbp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gilvbp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gilvbp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvbp&layout=compact&theme=gotham" alt="Top Languages" />&nbsp;&nbsp;&nbsp;
+   <img src="https://github-readme-stats.vercel.app/api?username=gilvbp&show_icons=true&theme=gotham" alt="gilvbp" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilvbp&theme=dark&hide_border=false/>&nbsp;&nbsp;&nbsp;
 </p>
 
