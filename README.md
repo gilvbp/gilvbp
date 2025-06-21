@@ -52,7 +52,7 @@
 [<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png"></code>](https://archlinux.org/)
 [<code><img height="20" src="https://www.r-project.org/Rlogo.png"></code>](https://www.r-project.org/)
 [<code><img height="20" src="https://logowik.com/content/uploads/images/kotlin.jpg"></code>](https://kotlinlang.org/)
-[<code><img height="20" src="https://logowik.com/content/uploads/images/911_c_logo.jpg"></code>]([https://kotlinlang.org/](https://www.geeksforgeeks.org/c-plus-plus/))
+[<code><img height="20" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png"></code>](https://www.w3schools.com/c/index.php)
 
 
 📈 my github stats
