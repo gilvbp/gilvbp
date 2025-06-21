@@ -51,8 +51,8 @@
 [<code><img height="20" src="https://uploads-ssl.webflow.com/5fa58eb04302c6e6eb23144c/5fe100c0445605e87d65282e_40583b9485486616cc310cf5c5282b85.png"></code>](https://cloud.google.com)
 [<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png"></code>](https://archlinux.org/)
 [<code><img height="20" src="https://www.r-project.org/Rlogo.png"></code>](https://www.r-project.org/)
-[<code><img height="20" src="https://www.r-project.org/Rlogo.png"></code>](https://www.r-project.org/)
 [<code><img height="20" src="https://logowik.com/content/uploads/images/kotlin.jpg"></code>](https://kotlinlang.org/)
+[<code><img height="20" src="https://logowik.com/content/uploads/images/911_c_logo.jpg"></code>]([https://kotlinlang.org/](https://www.geeksforgeeks.org/c-plus-plus/))
 
 
 📈 my github stats
