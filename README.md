@@ -58,8 +58,7 @@
 📈 my github stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvbp&layout=compact&theme=gotham" alt="Top Languages" />&nbsp;&nbsp;&nbsp;
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilvbp&theme=gotham&hide_border=false"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=gilvbp&show_icons=true&theme=gotham" alt="gilvbp" />
+<img src="https://github-readme-stats.vercel.app/api?username=gilvbp&show_icons=true&theme=gotham" alt="gilvbp" />
 </p>
 
 
