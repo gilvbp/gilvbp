@@ -54,7 +54,6 @@
 [<code><img height="20" src="https://logowik.com/content/uploads/images/kotlin.jpg"></code>](https://kotlinlang.org/)
 
 
-
 📈 my github stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvbp&layout=compact&theme=gotham" alt="Top Languages" />&nbsp;&nbsp;&nbsp;
